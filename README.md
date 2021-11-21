@@ -27,7 +27,7 @@ Your users should be able to:
 
 Here is the link of GitHub Pages, where I deployed the project:
 
-- [GitHub Pages](https://pages.github.com/)
+- [GitHub Pages](https://codenitesh.github.io/shoramess/)
 
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
